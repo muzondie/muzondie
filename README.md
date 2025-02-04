@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating drivers since 2019<br>📚 I'm currently learning how to socialize.<br>🎯 Goals: To create seamless all-in-one universal driver solutions that prevent the hassle of manually installing drivers.<br>🎲 Fun fact: I once accidentally developed a driver that made my keyboard type in reverse.</p>
+<p align="left">✨ Creating drivers since 2019<br>📚 I'm currently learning how to socialize.<br>🎯 Goals: To create seamless all-in-one universal driver solutions that prevent the hassle of manually installing drivers.<br>🎲 Fun fact: I once accidentally developed a driver that locally inverted entropy, reversing my keyboard's temporal output.</p>
 
 ###
 
